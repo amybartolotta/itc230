@@ -1,0 +1,19 @@
+{
+  "name": "bartolottaw1",
+  "version": "1.0.0",
+  "description": "itc230assignment1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amybartolotta/itc230.git"
+  },
+  "author": "amybartolotta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amybartolotta/itc230/issues"
+  },
+  "homepage": "https://github.com/amybartolotta/itc230#readme"
+}
