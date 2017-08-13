@@ -1,0 +1,29 @@
+{
+  "name": "bartolottaw7",
+  "version": "1.0.0",
+  "description": "week 7 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "itc230"
+  },
+  "keywords": [
+    "week",
+    "4",
+    "assignment"
+  ],
+  "author": "amy bartolotta",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "eslint": "^4.3.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "mongoose": "^4.11.4"
+  }
+}
